@@ -1,0 +1,10 @@
+{
+  "appId": "ru.dolg0.app",
+  "appName": "Долг → 0",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "android": {
+    "backgroundColor": "#090a0c",
+    "allowMixedContent": false
+  }
+}
